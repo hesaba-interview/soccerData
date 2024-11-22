@@ -1,4 +1,4 @@
-- DataSet
+DataSet
 
   - england - Results of all top 4 tier soccer games in England 1888-2022
   - england1939 - Contains results of abandoned 1939/40 season.
